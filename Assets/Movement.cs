@@ -13,7 +13,7 @@ public class Movement : MonoBehaviour
         CalculateMovement();
     }
 
-    
+    // This shit is broken.
     private void CalculateMovement()
     {
         // get input as float for both horiz and vert
