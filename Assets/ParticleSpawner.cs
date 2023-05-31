@@ -37,6 +37,8 @@ public class ParticleSpawner : MonoBehaviour
         Vector3 playerPos = player.transform.position;
         
         // switch statement to spawn different particles randomly
+        
+        //Pablito will rewrite this to make it less redundant xP
         switch (pickObject)
         {
             case 1:
